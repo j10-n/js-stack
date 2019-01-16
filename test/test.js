@@ -1,4 +1,4 @@
-var Stack = require('../lib/Stack.js');
+      var Stack = require('../lib/Stack.js');
 var should = require('chai').should();
 describe('Stack', function() {
   describe('Class methods', function() {
